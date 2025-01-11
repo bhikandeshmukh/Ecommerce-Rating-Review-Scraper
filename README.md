@@ -32,8 +32,8 @@ This project is a Python-based web scraping tool designed to extract bulk produc
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/bhikandeshmukh/Ecommerce-Rating-Review-Scraper.git
+   cd Ecommerce-Rating-Review-Scraper
    ```
 
 2. Install the required Python libraries:
